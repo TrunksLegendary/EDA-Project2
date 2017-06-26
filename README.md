@@ -9,7 +9,6 @@ For each year and for each type of PM source, the NEI records how many tons of P
 1) Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 ## Plot 1
-![Plot1.png](https://github.com/TrunksLegendary/EDA-Project2/blob/master/plot1.r)
 ![Plot1.png](https://github.com/TrunksLegendary/EDA-Project2/blob/master/plot1.png)
 
 2) Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
